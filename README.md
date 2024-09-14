@@ -68,6 +68,8 @@ Se genera una gráfica que muestra los datos reales y la línea de predicción d
  1. El código imprimirá el coeficiente 𝑅2 , el coeficiente de la regresión y la intersección.
  
  2. Luego mostrará una gráfica con los datos reales (ventas) y la línea de predicción generada por el modelo.
+ 3. ![image](https://github.com/user-attachments/assets/61037b1f-451a-4e12-af2e-d062dd1960aa)
+
  
  
 
